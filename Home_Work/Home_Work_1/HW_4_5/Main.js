@@ -52,43 +52,28 @@
 // document.write( " falshe");
 //
 
-let firstName = 'Дмитро ';
-let middleName = ' Валерійович ';
-let lastName = ' Портянніков';
-let person = firstName + middleName + lastName;
-console.log(person);
-document.write(person);
 
 
-// console.log('112233');
-// let a; // undefined
-// a = 100;
-// console.log(a);
-// a = 100500;
-// console.log(a);
+
+// let firstName = 'Дмитро ';
+// let middleName = ' Валерійович ';
+// let lastName = ' Портянніков';
+// let person = firstName + middleName + lastName;
+// console.log(person);
+// document.write(person);
+
 //
-// let str1 = 'Hello';
-// let str2 = " Okten ";
-// let res = str1+str2;
-// console.log(res);
-// let resr = `${str1} ${str2}`;
-// console.log(resr);
+// let a = 100;
+// console.log(typeof a)
+// let b = '100';
+// console.log(typeof b)
+// let c = true;
+// console.log(typeof c)
 //
-// let s ='!!!';
-// let n1=10;
-// let n2=20;
-// console.log(n1+n2+s);
-// console.log(s+(n1+n2));
 
-// bool > < = == ! //
 
-// console.log(5>6);
-// console.log(100<200);
-// console.log(100 !== 200);
-// console.log('asd' == 'asd');
-// console.log(0 == '0');
-// console.log(0 === '0');
-// console.log(typeof 0 === typeof '0');
 
-// let inputData = prompt('name','dat');
-// console.log(!!inputData);
+let inputData1 = prompt('firstName');
+let inputData2 = prompt('middleName');
+let inputData3 = prompt('data');
+console.log( inputData1 + inputData2 + inputData3);
