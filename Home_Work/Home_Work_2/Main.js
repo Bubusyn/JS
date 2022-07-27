@@ -16,17 +16,32 @@
 // console.log(arr[9]);
 
 
+
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
 
 
-
-let book = {
-    title: 1,
-    pageCount: 'vaysa',
-    genre: 31
-}
-
-console.log(book);
+// let book1 = {
+//     title: 'Вечера на хуторе близь Диканьки',
+//     pageCount: 42,
+//     genre: "Повести",
+//     autor: 'Николай Гоголь',
+//     date: 1832,
+// }
+// let book2 = {
+//     title: 'Руслан и Людмила',
+//     pageCount: 62,
+//     genre: "Поэма",
+//     autor: 'Александр Пушкин',
+//     date: 1820,
+// }
+// let book3 = {
+//     title: 'Охота за "Красным октябрем"',
+//     pageCount: 262,
+//     genre: "Роман",
+//     autor: 'Том Кленси',
+//     date: 1984,
+// }
+// console.log(book1,book2,book3);
 
 
 
