@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b9dc4c-5060-4780-ae30-1270d3a9f845" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Home_Work/Home_Work_2/HW_1/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home_Work/Home_Work_2/HW_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work/Home_Work_2/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_6/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_6/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_2/HW_1/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_2/HW_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Home_Work_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Project/HomeWork/JS/Home_Work/Home_Work_2/HW_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/HomeWork/JS/Home_Work/Home_Work_2/HW_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\HomeWork\JS\Home_Work\Home_Work_2\HW_1" />
@@ -57,6 +57,7 @@
       <recent name="D:\Project\HomeWork\JS\Home_Work\Home_Work_1\HW_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\HomeWork\JS\Home_Work\Home_Work_2" />
       <recent name="D:\Project\HomeWork\JS\Home_Work\Home_Work_1\HW_1" />
     </key>
   </component>
@@ -68,7 +69,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658690239193</updated>
-      <workItem from="1658690241296" duration="8398000" />
+      <workItem from="1658690241296" duration="9074000" />
+      <workItem from="1658839763081" duration="64000" />
+      <workItem from="1658853285674" duration="83000" />
+      <workItem from="1658865826292" duration="1857000" />
+      <workItem from="1658910097750" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1658694656577</created>
@@ -91,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658698060149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="js1">
+      <created>1658698804820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658698804820</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
