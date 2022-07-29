@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b9dc4c-5060-4780-ae30-1270d3a9f845" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Home_Work/Home_Work_3/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_2/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Home_Work_2/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_1_2/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Home_Work_1/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_1_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Home_Work_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_3/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_4_5/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work/Home_Work_1/HW_4_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work/Home_Work_3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/HomeWork/JS/Home_Work/Home_Work_2/HW_1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project/HomeWork/JS/Home_Work/Home_Work_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\HomeWork\JS\Home_Work\Home_Work_2\HW_1" />
@@ -72,7 +79,13 @@
       <workItem from="1658853285674" duration="83000" />
       <workItem from="1658865826292" duration="1857000" />
       <workItem from="1658910097750" duration="10888000" />
-      <workItem from="1658939367089" duration="4630000" />
+      <workItem from="1658939367089" duration="5126000" />
+      <workItem from="1658946897258" duration="102000" />
+      <workItem from="1659031613231" duration="101000" />
+      <workItem from="1659035847876" duration="130000" />
+      <workItem from="1659036418265" duration="502000" />
+      <workItem from="1659037101650" duration="103000" />
+      <workItem from="1659089758720" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1658694656577</created>
@@ -123,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658929515876</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="js2 end">
+      <created>1658944917587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658944917587</updated>
+    </task>
+    <task id="LOCAL-00009" summary="js2 end">
+      <created>1658945048223</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945048223</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +160,7 @@
     <MESSAGE value="js" />
     <MESSAGE value="js1" />
     <MESSAGE value="js2" />
-    <option name="LAST_COMMIT_MESSAGE" value="js2" />
+    <MESSAGE value="js2 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="js2 end" />
   </component>
 </project>
