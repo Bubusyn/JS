@@ -1,0 +1,16 @@
+.fathDiv{
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.users {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    border: 1px solid blue;
+    background: yellow;
+    width: 350px;
+    height: 100px;
+}
