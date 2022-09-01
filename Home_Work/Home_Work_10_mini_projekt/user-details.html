@@ -52,15 +52,39 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${'id'}`)
         button.onclick = function (){
 
             fetch(`https://jsonplaceholder.typicode.com/users/${id}/posts`)
-                .then((response) => response.json())
+                .then(response => response.json())
                 .then(coments => {
+                    let allDiv = document.createElement("div");
+                        allDiv.classList.add('allDiv');
+                        document.body.appendChild(allDiv);
+                        for (const coment of coments) {
+                            let div = document.createElement("div");
+                            div.classList.add('divClass');
+                            div.innerText = `ID-${coment.id}, comment : ${coment.title}`;
 
+                            let buttonPosts = document.createElement("button");
+                            buttonPosts.classList.add('buttonPosts');
+                            buttonPosts.innerText = 'post details';
+                            buttonPosts.onclick = function () {
+
+                                location.href = `./post-details.html?${coment.id}`
+                            }
+                             div.append(buttonPosts);
+                            allDiv.appendChild(div);
+
+                            }
+
+
+                        })
 
                 }
 
 
+               })
 
-    }
+
+
+
 
 
 

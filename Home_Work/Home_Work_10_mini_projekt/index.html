@@ -28,7 +28,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
                 button.innerText = ' user-details';
                 button.style.background = 'silver';
                 button.onclick = function () {
-                    location.href = `./user-details/user-details.html?id=${user.id}`
+                    location.href = `./user-details.html?id=${user.id}`
                 }
                 div.appendChild(button);
                 document.body.appendChild(div);
