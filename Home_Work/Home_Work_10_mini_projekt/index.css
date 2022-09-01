@@ -1,7 +1,10 @@
 .fathDiv{
-    margin: 0px;
+    margin: 1px;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
+    background: blue;
+
 }
 .users {
     display: flex;
@@ -9,8 +12,11 @@
     justify-content: space-around;
     align-items: center;
 
-    border: 1px solid blue;
-    background: yellow;
-    width: 350px;
+    width: 25%;
     height: 100px;
+
+    border: 1px solid blue;
+    border-radius: 15px;
+    background: yellow;
+
 }
