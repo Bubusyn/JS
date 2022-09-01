@@ -1,13 +1,24 @@
-fetch('https://jsonplaceholder.typicode.com/users')
+
+
+    {/*let url = new URL(location.href);*/}
+    {/*console.log(url);*/}
+    {/*// let payload = url.searchParams.get('payload');*/}
+    {/*// console.log(payload);*/}
+    {/*let id = url.searchParams.get('id');*/}
+    {/*console.log(id);*/}
+
+    fetch(`https://jsonplaceholder.typicode.com/users/${id}/posts`)
     .then((response) => response.json())
-    .then(users => {
-        for (const user of users) {
-            let div = document.createElement('div');
-            div.innerText = `${user.id} ${user.name}`;
-            let a = document.createElement('a');
-            a.href = `user-details.html?id=${user.id}`;
-            a.innerText = ' user-details';
-            div.appendChild(a);
-            document.body.appendChild(div);
-        }
-    });
+    .then(posts => {
+    let ul = document.createElement('ul');
+    for (const post of posts) {
+    let li = document.createElement('li');
+    li.innerText = post.title;
+    ul.appendChild(li);
+
+}
+
+    document.body.appendChild(ul);
+
+});
+
