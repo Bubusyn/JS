@@ -16,9 +16,33 @@
     margin: 6px;
     width: 49%;
 
-
     border: 3px solid black;
     border-radius: 15px;
     background: yellow;
 
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.user_details{
+    width: 100%;
+    /*height: 600px;*/
+    /*border: 1px solid darkgray;*/
+    background: slategrey;
+    display: flex;
+    flex-direction: column;
+}
+.user_details button, .user button, .post_details button {
+    display: block;
+    width: 90%;
+    margin: 5px auto;
+    background: cyan;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
 }
